@@ -2,7 +2,7 @@
 
 ## Estudiante: Ignacio Piloni
 
-Estudiante Ingeniería en Sistemas de Información UTN.
-Soy de Corrientes, Monte Caseros. Hincha de River.
+Hola! Soy Ignacio, vivo en Corrientes, Monte Caseros. Hincha de River.
+Me gusta dormir y salir de joda.
 
-![mi foto](foto.jpeg)
+![mi foto](foto.jpg)
